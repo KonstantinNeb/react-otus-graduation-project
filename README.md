@@ -1,5 +1,5 @@
 ## Проект по курсу «React.js Developer» от OTUS.ru
-
+### game of life
 ### Запуск проекта:
 
 установка зависимостей: 'npm i'  
