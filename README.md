@@ -33,3 +33,5 @@ loki
 redux-saga-test-plan  
 prettier  
 eslint
+
+[Chromatic](https://www.chromatic.com/setup?appId=64469a69f785c61eaa3da76f)  
